@@ -40,5 +40,6 @@ class solution:
 
 x = solution()
 print(x.lcs(6,5, "ABCDAE", "ABCDE"))
+# result: 5
 
 ````
